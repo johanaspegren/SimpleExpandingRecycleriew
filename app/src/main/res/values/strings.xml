@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ring en vän</string>
+    <string name="preference_file_key">preference_file_key</string>
+    <string name="user_name">user_name</string>
+</resources>
